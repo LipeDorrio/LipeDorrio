@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=990&color=6673A5&repeat=false&width=435&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+%CB%9A%E1%86%BA%CB%9A+%E2%8A%B9" alt="Bem-vindo ao meu perfil!" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=990&color=6673A5&repeat=false&width=435&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!" alt="Bem-vindo ao meu perfil!" /></a>
 <!--   <img align="right" alt="" height="200px" width="200" src="./src/gif_self.gif"> -->
   <p font-color="6c95df" align="left"> Olá me chamo Felipe, atualmente sou Dev Back End, cursando Desenvolvimento de Sistemas na Estácio.
     Hoje em dia tento aprimorar minhas habilidades, utilizando as linguagens PHP, NodeJs, Java.
