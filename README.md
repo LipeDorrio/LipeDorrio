@@ -1,12 +1,11 @@
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=990&color=6673A5&repeat=false&width=435&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+%CB%9A%E1%86%BA%CB%9A+%E2%8A%B9" alt="Bem-vindo ao meu perfil!" /></a>
-  <img align="right" alt="" height="200px" width="200" src="./src/gif_self.gif">
-  <p font-color="6c95df" align="left"> Olá me chamo Gabriella, sou Dev Full Stack. Atualmente, estou cursando Engenharia de Software na Estácio e técnico em Desenvolvimento de Sistemas no SENAI.
-    Meu foco está em aprimorar minhas habilidades e contribuir para projetos desafiadores no campo da tecnologia.
+<!--   <img align="right" alt="" height="200px" width="200" src="./src/gif_self.gif"> -->
+  <p font-color="6c95df" align="left"> Olá me chamo Felipe, atualmente sou Dev Back End, cursando Desenvolvimento de Sistemas na Estácio.
+    Hoje em dia tento aprimorar minhas habilidades, utilizando as linguagens PHP, NodeJs, Java.
   </p>
   <div style="display: inline_block" align="left">
     
-  [![E-mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipejohnjohn@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dorrio/)
   
   </div><br>
