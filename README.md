@@ -15,3 +15,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LipeDorrio/LipeDorrio/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LipeDorrio/LipeDorrio/output/github-contribution-grid-snake.svg">
 </picture>
+
+GUGU ESTEVE AQUI HAHAHAHAHAH
