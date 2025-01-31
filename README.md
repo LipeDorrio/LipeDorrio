@@ -17,5 +17,5 @@
 </picture>
 <p></p>
 <picture align="center">
-  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LipeDorrio&show_icons=true&count_private=false&hide_border=false&title_color=ff0000&icon_color=3e5c76&text_color=ec56d5&bg_color=000000" alt="Felipe github stats" /> 
+  <img width="1000px" height="300px" src="https://github-readme-stats.vercel.app/api?username=LipeDorrio&show_icons=true&count_private=true&hide_border=true&title_color=bb89ff&icon_color=3e5c7680&text_color=7389d580&bg_color=11110000" alt="Felipe github stats" /> 
 </picture>
