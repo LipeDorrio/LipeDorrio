@@ -15,6 +15,7 @@
 <!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LipeDorrio/LipeDorrio/output/github-contribution-grid-snake.svg"> -->
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LipeDorrio/LipeDorrio/output/github-contribution-grid-snake.svg">
 </picture>
+<p></p>
 <picture align="center">
-<img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LipeDorrio&show_icons=true&count_private=false&hide_border=false&title_color=ff0000&icon_color=3e5c76&text_color=ec56d5&bg_color=000000" alt="Felipe github stats" /> 
+  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LipeDorrio&show_icons=true&count_private=false&hide_border=false&title_color=ff0000&icon_color=3e5c76&text_color=ec56d5&bg_color=000000" alt="Felipe github stats" /> 
 </picture>
