@@ -19,6 +19,3 @@
 <picture align="center">
   <img width="1000px" height="300px" src="https://github-readme-stats.vercel.app/api?username=LipeDorrio&show_icons=true&count_private=true&hide_border=true&title_color=bb89ff&icon_color=3e5c7680&text_color=7389d580&bg_color=11110000" alt="Felipe github stats" /> 
 </picture>
-
-
-LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL GUTIN ESEUQEÇA TUDO ESTEVE AQUIIIIIII
