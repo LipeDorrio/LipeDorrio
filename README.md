@@ -6,11 +6,13 @@
   <p>  
     Estou sempre buscando aprimorar as minhas habilidades. Com foco completo em excelência e claro com código limpo.
   </p>
-  <div style="display: inline_block" align="left">
-    
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dorrio/)
   
+  <div style="display: inline_block" align="left">
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dorrio/)
+
   </div>
+  
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LipeDorrio/LipeDorrio/output/github-contribution-grid-snake-dark.svg">
